@@ -8,7 +8,7 @@ const AboutPage = () => {
         <title>Жирные Бургеры | О Нас</title>
         <meta name="title" content="Все о жирных бургерах" />
       </Head>
-      <div>
+      <div className="container" style={{ textAlign: "center" }}>
         <h1>О нас</h1>
         <p>
           Жирные бургеры - это старые добрые бургеры по классической рецептуре,

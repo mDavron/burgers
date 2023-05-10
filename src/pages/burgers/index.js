@@ -2,7 +2,7 @@ import React from "react";
 
 const Burgers = () => {
   return (
-    <div>
+    <div className="container">
       <h1>Наши бургеры</h1>
     </div>
   );
